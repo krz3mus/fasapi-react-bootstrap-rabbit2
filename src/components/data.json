@@ -1,0 +1,44 @@
+{
+  "alerts": [
+    {
+      "id": 1,
+      "type": "high_cpu",
+      "message": "High CPU usage detected"
+    },
+    {
+      "id": 2,
+      "type": "low_disk",
+      "message": "Low disk space detected"
+    },
+    {
+      "id": 3,
+      "type": "high_memory",
+      "message": "High memory usage detected"
+    },
+    {
+      "id": 4,
+      "type": "network_issue",
+      "message": "Network issue detected"
+    },
+    {
+      "id": 5,
+      "type": "high_traffic",
+      "message": "High traffic detected"
+    },
+    {
+      "id": 6,
+      "type": "low_battery",
+      "message": "Low battery detected"
+    },
+    {
+      "id": 7,
+      "type": "failure",
+      "message": "System failure detected"
+    },
+    {
+      "id": 8,
+      "type": "security_alert",
+      "message": "Security alert detected"
+    }
+  ]
+}
